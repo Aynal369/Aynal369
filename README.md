@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aynal Hossain</h1>
-<h3 align="center">My core skill is based on html, css, bootstrap, javascript, react js and I love to do most of the things using them. I enjoy every step of the developing process from discussion and collaboration. basically, I am a self-motivated and passionate web developer with a deep interest in javascript.</h3>
+<h4 align="center">Hi,
+My name is  Aynal Hossain. I am a Front-end Developer and I have expertise in the skill of React Development. Skilled in HTML5, CSS3, Bootstrap, JavaScript, MongoDB, and Express. I'm interested in MERN(Mongo, Express, React, NodeJS) Web Development. Also, I'm improving my development skills and learning tools and technologies. I can work as an individual as well as in a team. I am seeking an opportunity so I can use my skills in programming frameworks and development.</h4>
 
 - 🔭 I’m currently working on [Host Ambit](https://hostambit.com/)
 
